@@ -15,7 +15,7 @@ At the end of this lesson, you will be able to:
 
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
-*   [Installing and activating plug-ins](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) on a self-hosted WordPress website.
+*   [Installing and activating plugins](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) on a self-hosted WordPress website.
 
 ## Screening Questions
 
@@ -28,7 +28,7 @@ You will be better equipped to work through this lesson if you have experience i
 *   The preferred answers to the screening questions are “yes.” Participants who reply “no” to any question may not be ready for this lesson.
 *   You may print out the hands-on walkthrough to use as a handout or send it as a .pdf file to stay green. A .pdf will also preserve the links used throughout the document.
 *   It might make sense to have a discussion around the first part of the walkthrough, to assess site performance criteria & what improvement methods students are familiar with already.
-*   It might be a good idea to follow this lesson with [What is W3 Total Cache](https://make.wordpress.org/training/handbook/user-lessons/what-is-w3-total-cache/). This will help students to have a better understanding of the practical applications of the ideas listed in this lesson.
+*   It might be a good idea to follow this lesson with [What is W3 Total Cache](https://make.wordpress.org/training/handbook/lesson-plans/user-lessons/what-is-w3-total-cache/). This will help students to have a better understanding of the practical applications of the ideas listed in this lesson.
 
 ## Hands-on Walkthrough
 
@@ -90,7 +90,7 @@ The theme and plugins that you use on a site are very important for the site's p
 
 You also can minify your content so that pages are quickly delivered to readers' browsers. For example, the [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) plugin mentioned earlier includes a minify module which lets you control whether HTML, CSS, and Javascript files are minified and compressed. 
 
-Minification removes all unnecessary or redundant data from the code without affecting performance, minimizing the size of the file that needs to be downloaded to the user's browser. This causes website pages to load faster and generally speeds up site operation. Plugins such as [WP Smushit](http://wordpress.org/plugins/wp-smushit/) or [EWWW Image optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) can help to compress images and other media files.
+Minification removes all unnecessary or redundant data from the code without affecting performance, minimizing the size of the file that needs to be downloaded to the user's browser. This causes website pages to load faster and generally speeds up site operation. Plugins such as [WP Smushit](http://wordpress.org/plugins/wp-smushit/) or [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) can help to compress images and other media files.
 
 ### Summary
 
@@ -110,7 +110,7 @@ Your site or blog's performance is very important for visitor experience and for
 3.  It could hurt your SEO
 4.  It makes you pay more for the hosting of your website
 
-**Answer:** 2. It distorts the visitor experience & 3\. It could hurt your SEO
+**Answer:** 2. It distorts the visitor experience & 3. It could hurt your SEO
 
 **Which of the following is a valid way for you to increase your site's performance?**
 
