@@ -212,7 +212,7 @@ WordPress site performance is characterized by how fast pages on a site load. Th
 There are some impressive statistics regarding website performance ([source](https://blog.kissmetrics.com/loading-time/)):
 
 *   40% of people abandon a website that takes more than 3 seconds to load.
-*   A one second delay in page response can result in a 7% reduction in conversions.
+*   A one-second delay in page response can result in a 7% reduction in conversions.
 *   47% of consumers expect a web page to load in 2 seconds or less.
 
 So it makes sense to invest some time to ensure your site is optimized and performs well.
@@ -243,7 +243,7 @@ Caching also minimizes server load. Normally, when a visitor comes to your site
 
 With page caching on, you can display a cached copy of the page as soon as it’s requested, without sending a request to the server.
 
-There are plenty of caching plugins available, such as [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), which allows browser, page, object and database caching. Some of the most popular alternatives are [W3 Super Cache](https://wordpress.org/plugins/wp-super-cache/), which has fewer options to customize so may feel less overwhelming, and [WP Rocket](http://wp-rocket.me/), which is an efficient but simple premium plugin.
+There are plenty of caching plugins available, such as [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), which allows browser, page, object, and database caching. Some of the most popular alternatives are [W3 Super Cache](https://wordpress.org/plugins/wp-super-cache/), which has fewer options to customize so may feel less overwhelming, and [WP Rocket](http://wp-rocket.me/), which is an efficient but simple premium plugin.
 
 #### Offloading
 
