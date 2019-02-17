@@ -73,7 +73,7 @@ Participants will get the most from this lesson if they have familiarity with:
 >
 > _For example:_
 >
-> *   Do you want to makes changes to your theme yourself?
+> *   Do you want to make changes to your theme yourself?
 > *   Do you know how to write CSS?
 
 ## Materials Needed
