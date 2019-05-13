@@ -291,6 +291,15 @@ Your site or blog's performance is very important for visitor experience and for
 
 **Answer:**  1. Install and configure a caching plugin
 
+**Which tool is useful to test your site's performance online?**
+
+1.  GTMATRIX
+2.  PAGE SPEED INSIGHT
+3.  PINGDOM
+4.  All of the above
+
+**Answer:**  1. All of the above
+
 ## Additional materials
 
 Some more details on optimizing your website can be found at [WordPress Optimization/WordPress Performance](https://codex.wordpress.org/WordPress_Optimization/WordPress_Performance) section @ Codex
