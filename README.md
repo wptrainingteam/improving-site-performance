@@ -209,7 +209,7 @@ WordPress site performance is characterized by how fast pages on a site load. Th
 *   Google and other search engines rank sites based on performance; sites with better performance rank higher.
 *   Adequate site response helps to decrease bounce rate, the rate at which users "bounce off" your site and go somewhere else.
 
-There are some impressive statistics regarding website performance ([source](https://blog.kissmetrics.com/loading-time/)):
+There are some impressive statistics regarding website performance ([source](https://neilpatel.com/blog/loading-time/):
 
 *   40% of people abandon a website that takes more than 3 seconds to load.
 *   A one-second delay in page response can result in a 7% reduction in conversions.
@@ -233,7 +233,7 @@ When a website visitor's device requests data from a website hosted on a server,
 
 ### How to optimize your website?
 
-There are several popular ways to boost the performance of a website.
+There are several popular ways to boost the performance of a WordPress website.
 
 #### Caching
 
