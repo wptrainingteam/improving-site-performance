@@ -298,7 +298,7 @@ Your site or blog's performance is very important for visitor experience and for
 3.  PINGDOM
 4.  All of the above
 
-**Answer:**  1. All of the above
+**Answer:**  4. All of the above
 
 ## Additional materials
 
